@@ -5,7 +5,7 @@ The `dataset_searching` directory contains scripts searching the processed data 
 Additionally, the `notebooks` directory contains notebooks for reproducing many of the figures.
 
 ## Data
-Running the dataset searching scripts will require youp to download the full dataset.
+Running the dataset searching scripts will require you to download the full dataset.
 Running some of the notebooks will require some intermediate processing files.
 Both the full dataset and intermediate processing files are available on Zenodo, __doi:__ https://doi.org/10.5281/zenodo.6477242
 
